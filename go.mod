@@ -1,4 +1,4 @@
-module github.com/Thean-Arch/go_bookstore
+module github.com/Thean-Arch/go_library
 
 go 1.21.5
 
