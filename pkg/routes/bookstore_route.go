@@ -1,8 +1,9 @@
 package routes
 
 import (
-	"gihub.com/Thean-Arch/go_library/pkg/controllers"
 	"github.com/gorilla/mux"
+
+	"github.com/thean/go_library/pkg/controllers"
 )
 
 var RegisterBookStoreRoutes = func(router *mux.Router) {

@@ -3,7 +3,7 @@ package models
 import (
 	"github.com/jinzhu/gorm"
 
-	"github.com/Thean-Arch/go_library/pkg/config"
+	"github.com/thean/go_library/pkg/config"
 )
 
 var db *gorm.DB

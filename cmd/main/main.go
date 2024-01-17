@@ -5,9 +5,8 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	_ "github.com/jinzhu/gorm/gorm/dialects/mysql"
-
-	"github.com/Thean-Arch/go_library/pkg/routes"
+	_ "github.com/jinzhu/gorm/dialects/mysql"
+	"github.com/thean/go_library/pkg/routes"
 )
 
 func main() {
